@@ -6,7 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayanraha" alt="sayanraha" /></a> </p>
 
-- 🔭 I’m currently working on **Full Stack SaaS AI application.**
 
 - 🌱 I’m currently learning **AIML and DS**
 
